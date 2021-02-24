@@ -1,0 +1,17 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  }
+  
+  a {
+    color: #00B7FF;
+  }
+  
+  .div {
+  width: 100px; /* ширина элемента */	
+  height: 100px; /* высота элемента */	
+  background: blue; /* цвет заднего фона */	
+  }
+  .orangered-bg {
+  background: orangered; /* цвет заднего фона */	
+  }
