@@ -1,10 +1,10 @@
 body {
-    padding: 100px;
+    padding: 70px;
     font: 50px "Lucida Grande", Helvetica, Arial, sans-serif;
   }
   
   a {
-    color: #00B7FF;
+    color: #ffe600;
   }
   
   .div {
@@ -13,5 +13,5 @@ body {
   background: blue; /* цвет заднего фона */	
   }
   .orangered-bg {
-  background: orangered; /* цвет заднего фона */	
+  background: rgb(247, 60, 3); /* цвет заднего фона */	
   }
